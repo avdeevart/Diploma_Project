@@ -39,6 +39,6 @@
 
 В целом, эти данные, вероятно, содержат важную информацию о различных зданиях и их характеристиках, хотя точное понимание каждого атрибута требует дополнительного контекста или метаданных.
 ---
-Файл [`2_Incidents_registered_at_municipal_facilities.xlsx`] (https://disk.yandex.ru/d/ohVNotlcOqCiYg)
+Файл [`2_Incidents_registered_at_municipal_facilities.xlsx`](https://disk.yandex.ru/d/ohVNotlcOqCiYg)
 
 
