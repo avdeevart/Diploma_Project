@@ -28,7 +28,7 @@
 
 2. **Теоретическая часть**
     - [Обзор литературы](https://github.com/avdeevart/Diploma_Project/blob/main/Content/TM_Moscow.pdf)
-    - Исследование существующих подходов
+    - [Исследование существующих подходов](https://github.com/avdeevart/Diploma_Project/blob/main/Content/002_2_A%20study%20of%20existing%20approaches.md)
     - Теоретические основы определения приоритетности
 
 3. **Методология**
