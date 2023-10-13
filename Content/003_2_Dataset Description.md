@@ -1,6 +1,12 @@
 
 ## 4.1 Описание данных и источников
 
+---
+
+[Полный справочник полей данных](https://github.com/avdeevart/Diploma_Project/blob/main/Content/Dataset/DataDescript.docx)
+
+---
+
 Файл [`1_M_buildings_tech_econom_char.xlsx`](https://github.com/avdeevart/Diploma_Project/blob/main/Content/Dataset/1_M_buildings_tech_econom_char.xlsx) содержит данные о различных зданиях и их технико-экономических характеристиках. Первый взгляд на данные дает следующую информацию:
 
 ### Общая информация:
