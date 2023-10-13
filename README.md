@@ -33,7 +33,7 @@
 
 3. **Методология**
     - [Описание методов исследования](https://github.com/avdeevart/Diploma_Project/blob/main/Content/003_1_Description%20of%20research%20methods.md)
-    - Описание данных и источников
+    - [Описание данных и источников](https://github.com/avdeevart/Diploma_Project/blob/main/Content/003_2_Dataset%20Description.md)
     - Алгоритм работы системы
 
 4. **Практическая часть**
