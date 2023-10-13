@@ -32,7 +32,7 @@
     - [Теоретические основы определения приоритетности](https://github.com/avdeevart/Diploma_Project/blob/main/Content/002_3_Theoretical%20basis%20for%20prioritization.md)
 
 3. **Методология**
-    - Описание методов исследования
+    - [Описание методов исследования](https://github.com/avdeevart/Diploma_Project/blob/main/Content/003_1_Description%20of%20research%20methods.md)
     - Описание данных и источников
     - Алгоритм работы системы
 
