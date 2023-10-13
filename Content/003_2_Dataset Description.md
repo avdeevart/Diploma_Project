@@ -167,9 +167,6 @@
 
 ---
 
-https://github.com/avdeevart/Diploma_Project/blob/main/Content/Dataset/4.2_Work_types_for_maintenance_and_repair_of_common_property_of_apartment_buildings.xlsx
-
-
 Файл [`4.2_Work_types_for_maintenance_and_repair_of_common_property_of_apartment_buildings.xlsx`](https://github.com/avdeevart/Diploma_Project/blob/main/Content/Dataset/4.2_Work_types_for_maintenance_and_repair_of_common_property_of_apartment_buildings.xlsx) содержит информацию о различных типах работ, связанных с обслуживанием и ремонтом общего имущества в жилых зданиях. Он включает в себя идентификаторы, названия работ и дополнительную техническую информацию, структура и содержание которой требует дополнительного разбора.
 
 
