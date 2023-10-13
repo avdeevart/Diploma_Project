@@ -21,7 +21,7 @@
 - **Системы контроля версий:** Git.
 
 ### Структура дипломного проекта
-1. **[Введение]** (https://github.com/avdeevart/Diploma_Project/blob/main/Content/001_Intro.md)
+1. [**Введение**](https://github.com/avdeevart/Diploma_Project/blob/main/Content/001_Intro.md)
     - Определение проблемы
     - Актуальность темы
     - Цель и задачи работы
